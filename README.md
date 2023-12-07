@@ -1,11 +1,4 @@
-# IT5006
-## Project: Job Role Recommendation App
-
-This is the members' table of our team:
-
-| 1         | 2              | 3           |
-| --------- | -------------- | ----------- | 
-| HUANG HEJIA | XIANG XIAONENG | LIN XUESHUN |
+## Job Role Recommendation App
 
 # Installation
 
